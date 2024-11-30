@@ -20,8 +20,9 @@ Define your API_Keys in : "C:\Users\<userid>\Documents\PowerShell\Microsoft.Powe
 
 ./first_prompt.ps1 ( powershell )
     |---------->  python -m first_prompt.py ( python )
-                           |<--------> OpenAI
-                           |<--------> AHTHROPIC
+                                |<-------->aisuite()
+                                              |<--------> OpenAI
+                                              |<--------> AHTHROPIC
 ````
 
 giving : 
