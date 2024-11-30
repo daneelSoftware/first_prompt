@@ -8,7 +8,7 @@ using [aisuite](https://github.com/andrewyng/aisuite) from [Andrew NG](https://g
 
 Runtime OS : Windows
 
-replace <userid> with your ID
+replace **<userid** with your ID
 
 ````
 "C:\Users\<userid>\Documents\PowerShell\Microsoft.Powershell_profile.ps1"
