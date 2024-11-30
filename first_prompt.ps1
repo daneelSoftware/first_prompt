@@ -13,7 +13,8 @@ if ( $Env:ANTHROPIC_API_KEY -eq $null ){
 } else {
 	echo "ANTHROPIC_API_KEY set"	
 }
-
-echo "start prompt $PROJECT at : "
+$start=Get-Date -UFormat "%Y/%m/%d %R"
+echo "start prompt $PROJECT at : $start"
 python -m $PROJECT
-echo "stop prompt $PROJECT at : "
+$stop=Get-Date -UFormat "%Y/%m/%d %R"
+echo "stop prompt $PROJECT at : $stop"
