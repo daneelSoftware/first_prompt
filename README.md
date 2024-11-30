@@ -8,6 +8,8 @@ using [aisuite](https://github.com/andrewyng/aisuite) from [Andrew NG](https://g
 
 Runtime OS : Windows
 
+````
 "C:\Users\<userid>\Documents\PowerShell\Microsoft.Powershell_profile.ps1"
+````
 
 Define your API_Keys in : "C:\Users\<userid>\Documents\PowerShell\Microsoft.Powershell_profile.ps1"
