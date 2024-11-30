@@ -6,3 +6,8 @@ Just wanted to try out how easu or complicated it is to implement a prompt appli
 
 using [aisuite](https://github.com/andrewyng/aisuite) from [Andrew NG](https://github.com/andrewyng)
 
+Runtime OS : Windows
+
+"C:\Users\<userid>\Documents\PowerShell\Microsoft.Powershell_profile.ps1"
+
+Define your API_Keys in : "C:\Users\<userid>\Documents\PowerShell\Microsoft.Powershell_profile.ps1"
