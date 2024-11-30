@@ -17,11 +17,16 @@ replace **<userid** with your ID
 Define your API_Keys in : "C:\Users\<userid>\Documents\PowerShell\Microsoft.Powershell_profile.ps1"
 
 ````
-./first_prompt.ps1
-    |---------->  python -m first_prompt.py
+
+./first_prompt.ps1 ( powershell )
+    |---------->  python -m first_prompt.py ( python )
                            |<--------> OpenAI
                            |<--------> AHTHROPIC
+````
 
+giving : 
+
+````
 OPENAI_API_KEY set
 ANTHROPIC_API_KEY set
 Begin of program at :  2024-11-30 19:43:00
