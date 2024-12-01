@@ -6,7 +6,7 @@ Just wanted to try out how easu or complicated it is to implement a prompt appli
 
 using [aisuite](https://github.com/andrewyng/aisuite) from [Andrew NG](https://github.com/andrewyng)
 
-First you need to onboard at : [OpenAI](https://platform.openai.com/) and [Anthropic](https://console.anthropic.com/) to get API_KEYs create your account and provision credits for the payload **You need both to submit a prompt**
+First you need to onboard at : [OpenAI](https://platform.openai.com/) or [Anthropic](https://console.anthropic.com/) to get API_KEYs create your account and provision credits for the payload **You need a valid API Key to submit a prompt**
 
 Runtime OS : Windows
 
